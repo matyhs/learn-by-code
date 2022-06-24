@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6Rjs9rmEIb1mQVxa3jfYbK6DGYAJ7oQkkuuZ7kdwhKXSB64Hfz4p8q1e9YdrfT4NDi0x2DElVG8PlTJfx3pmg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\repos\\learn-by-code\\azure\\redis\\az204-redis\\az204-redis.csproj",
+  "expectedPackageFiles": [
+    "D:\\.nuget\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\pipelines.sockets.unofficial\\2.2.0\\pipelines.sockets.unofficial.2.2.0.nupkg.sha512",
+    "D:\\.nuget\\stackexchange.redis\\2.2.88\\stackexchange.redis.2.2.88.nupkg.sha512",
+    "D:\\.nuget\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\system.diagnostics.performancecounter\\5.0.0\\system.diagnostics.performancecounter.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "D:\\.nuget\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

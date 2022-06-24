@@ -1,0 +1,10 @@
+{
+  "name": "voter-program",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "cargo build-bpf --bpf-out-dir=dist/program",
+    "deploy": "solana program deploy dist/program/voter_program.so"
+  }
+}

@@ -1,0 +1,17 @@
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\bin\Debug\net6.0\az204-auth.exe
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\bin\Debug\net6.0\az204-auth.deps.json
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\bin\Debug\net6.0\az204-auth.runtimeconfig.json
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\bin\Debug\net6.0\az204-auth.dll
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\bin\Debug\net6.0\ref\az204-auth.dll
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\bin\Debug\net6.0\az204-auth.pdb
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.csproj.AssemblyReference.cache
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.AssemblyInfoInputs.cache
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.AssemblyInfo.cs
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.csproj.CoreCompileInputs.cache
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.csproj.CopyComplete
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.dll
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\ref\az204-auth.dll
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.pdb
+D:\Personal\repos\learn-by-code\azure\msal\az204-auth\obj\Debug\net6.0\az204-auth.genruntimeconfig.cache

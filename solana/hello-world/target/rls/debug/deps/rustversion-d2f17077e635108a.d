@@ -1,0 +1,20 @@
+/mnt/d/personal/repos/learn-by-code/solana/hello-world/target/rls/debug/deps/librustversion-d2f17077e635108a.so: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs /mnt/d/personal/repos/learn-by-code/solana/hello-world/target/rls/debug/build/rustversion-f097d2be8e92918c/out/version.rs
+
+/mnt/d/personal/repos/learn-by-code/solana/hello-world/target/rls/debug/deps/rustversion-d2f17077e635108a.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs /mnt/d/personal/repos/learn-by-code/solana/hello-world/target/rls/debug/build/rustversion-f097d2be8e92918c/out/version.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/attr.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/bound.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/constfn.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/date.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/error.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expand.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/expr.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/iter.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/release.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/time.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/token.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.6/src/version.rs:
+/mnt/d/personal/repos/learn-by-code/solana/hello-world/target/rls/debug/build/rustversion-f097d2be8e92918c/out/version.rs:
+
+# env-dep:OUT_DIR=/mnt/d/personal/repos/learn-by-code/solana/hello-world/target/rls/debug/build/rustversion-f097d2be8e92918c/out

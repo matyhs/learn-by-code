@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkEWUJdoB+nNb438zqdSKiipE/4zW25dRVtcql2WZWdCpiI2nYHyF5p6olTUGN2CgqUAdZ2T12astnQNCHNf9w==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\repos\\learn-by-code\\azure\\msal\\az204-auth\\az204-auth.csproj",
+  "expectedPackageFiles": [
+    "D:\\.nuget\\microsoft.identity.client\\4.41.0\\microsoft.identity.client.4.41.0.nupkg.sha512"
+  ],
+  "logs": []
+}

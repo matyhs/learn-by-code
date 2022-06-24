@@ -1,0 +1,14 @@
+/mnt/d/personal/repos/learn-by-code/solana/hello-world/target/rls/debug/deps/tracing_core-4f208129f4f655f6.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/callsite.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/dispatcher.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/event.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/field.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/metadata.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/parent.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/span.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/stdlib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/subscriber.rs
+
+/mnt/d/personal/repos/learn-by-code/solana/hello-world/target/rls/debug/deps/tracing_core-4f208129f4f655f6.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/callsite.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/dispatcher.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/event.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/field.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/metadata.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/parent.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/span.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/stdlib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/subscriber.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/callsite.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/dispatcher.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/event.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/field.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/metadata.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/parent.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/span.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/stdlib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-core-0.1.22/src/subscriber.rs:
